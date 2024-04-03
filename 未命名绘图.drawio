@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T01:42:05.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.1" etag="kCFrxqVGhd2JsfA0J7hW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T02:03:37.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SR2AWQZ7IgPg_9u6RtNj" version="24.2.1" type="github">
   <diagram name="第 1 页" id="vhgv0iih_B8nxHNUvkEL">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-1" value="&lt;span style=&quot;font-size:11.0pt;font-family:&lt;br/&gt;&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-ligatures:standardcontextual;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;disc&amp;nbsp;&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="646" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-3" value="&lt;span style=&quot;font-size:11.0pt;font-family:&lt;br/&gt;&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-ligatures:standardcontextual;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;pad holder(&lt;span style=&quot;font-size: 11pt; background-color: initial;&quot;&gt;CN5006245&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="710" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;" vertex="1" parent="1">
+          <mxGeometry x="525" y="248" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="420" as="sourcePoint" />
+            <mxPoint x="190" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-9" value="error position" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="428" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-17" value="&lt;span style=&quot;font-size:11.0pt;font-family:&lt;br/&gt;&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-ligatures:standardcontextual;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;disc&amp;nbsp;&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="132" y="610" width="646" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-18" value="&lt;span style=&quot;font-size:11.0pt;font-family:&lt;br/&gt;&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-ligatures:standardcontextual;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;pad holder(&lt;span style=&quot;font-size: 11pt; background-color: initial;&quot;&gt;CN5006245&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="544.5" width="710" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="710" as="sourcePoint" />
+            <mxPoint x="180" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-23" value="right position" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="718" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-24" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;" vertex="1" parent="1">
+          <mxGeometry x="445" y="258" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-25" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;" vertex="1" parent="1">
+          <mxGeometry x="365" y="248" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-26" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;" vertex="1" parent="1">
+          <mxGeometry x="528" y="530" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-27" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;" vertex="1" parent="1">
+          <mxGeometry x="448" y="540" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oubUcm6TJSGz5ziwkFrn-28" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;" vertex="1" parent="1">
+          <mxGeometry x="368" y="530" width="10" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
